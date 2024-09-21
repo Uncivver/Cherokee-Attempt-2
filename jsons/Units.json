@@ -9,8 +9,8 @@
 		"rangedStrength": 0,
 		"range": 0,
 		"cost": 25,
-		"requiredTech": "",
-		"requiredResource": "",
+		"requiredTech": "Pottery",
+		"requiredResource": "Wood",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
