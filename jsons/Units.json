@@ -10,7 +10,7 @@
 		"range": 0,
 		"cost": 25,
 		"requiredTech": "Pottery",
-		"requiredResource": "Wood",
+		"requiredResource": "Furs",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
