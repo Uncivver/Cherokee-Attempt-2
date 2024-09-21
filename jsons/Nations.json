@@ -20,7 +20,7 @@
 		"neutralYes": ["delightful."],
 
 		"hateHello": "",
-		"hateLetsHearIt": ['"],
+		"hateLetsHearIt": [""],
 		"hateNo": [""],
 		"hateYes": [""],
 		
@@ -30,7 +30,7 @@
 		"outerColor": [256,0,0],
 		"innerColor": [235,0,0],
 		"unique": "uhh",
-		"cities": ["Tribe",]
+		"cities": ["Tribe"]
 			
 		         
 			
