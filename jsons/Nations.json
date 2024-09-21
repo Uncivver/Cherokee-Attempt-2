@@ -28,7 +28,7 @@
 		"tradeRequest": "friend. do you want this trade?",
 
 		"outerColor": [256,0,0],
-		"innerColor": [235,0,0],
+		"innerColor": [45,15,5],
 		"unique": "uhh",
 		"cities": ["Tribe"]
 			
